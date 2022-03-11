@@ -58,3 +58,9 @@ Cirineu - engereggae Linkedin
 <a target="_blank" href="https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/">
   <img align="left" alt="Gmail" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
+<br>
+
+## In memorian
+
+Essa comunidade é inteiramente dedicada ao meu filho VICENTE DE CARVALHO VIEIRA FERNANDES
+                                                          Obrigado meu filho
