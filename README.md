@@ -50,10 +50,6 @@ Poderemos obter recursos com os serviços de entrega de conectividade através d
 </a>
 
 <br>
-
-https://github-readme-stats.vercel.app/api?username={sirineo-technologies}
- 
-<br>
  
 ## Autor
 
