@@ -62,5 +62,5 @@ Cirineu - engereggae Linkedin
 
 ## In memorian
 
-Essa comunidade é inteiramente dedicada ao meu filho VICENTE DE CARVALHO VIEIRA FERNANDES
+Essa comunidade é inteiramente dedicada ao meu filho VICENTE DE CARVALHO VIEIRA FERNANDES<br>
                                                           Obrigado meu filho
