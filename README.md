@@ -52,6 +52,7 @@ Poderemos obter recursos com os serviços de entrega de conectividade através d
 ##Autor  
 
 [Cirineu - engereggae Linkedin](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/)
+
 <a target="_blank" href="www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37">
-  <img align="left" alt="Gmail" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> commercialbusiness@sirineotechnologies.com
+  <img align="left" alt="Gmail" width="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
