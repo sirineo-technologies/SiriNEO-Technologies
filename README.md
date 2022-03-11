@@ -23,9 +23,6 @@ Poderemos obter recursos com os serviços de entrega de conectividade através d
 
 ## Nossas Redes Sociais
 
-Autor  
-
-[Cirineu - engereggae Linkedin](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/)
 
 <a target="_blank" href="http://sirineotechnologies.com/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://visualpharm.com/assets/378/Website-595b40b65ba036ed117d1098.svg" />
@@ -52,4 +49,9 @@ Autor
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
 </a>
 
+##Autor  
 
+[Cirineu - engereggae Linkedin](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/)
+<a target="_blank" href="www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37">
+  <img align="left" alt="Gmail" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> commercialbusiness@sirineotechnologies.com
