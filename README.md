@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=sirineo-technologies)
+![](https://komarev.com/ghpvc/?username=sirineo-technologies&color=green)
 
 <p align="center">
 <img width="702" height="132" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/LOGO-Simples-Colorida-Com-Contorno.png">
