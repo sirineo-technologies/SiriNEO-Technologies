@@ -7,7 +7,7 @@
 ## Sobre a SiriNEO Technologies
 
 A SiriNEO Technologies é uma Startup de Tecnologia ligada a conectividade e serviços em Internet da  Coisas. Fundada no Brasil, buscamos a integração de dispositivos IoT nos mais variáveis ecossistemas de telecomunicações, aliados também a uma importante análise de dados para busca de soluções com inovação e tecnologia.
-Desenvolvemos hardwares para iot buscando a conectividade, estamos em processo de lançamento de nossas Plataformas de Hardwares: JARM IOT M (ARM CORTEX M0) e JARM ESP32 IOT (ESP32 WROOM). Para o Raspberry Pi desenvolvemos o Hat GongoMESH, para aplicações em Gateway utilizando protocolos como LoRa, Zigbee, Wi-Fi, BLE, GPRS, NB-IOT e SigFOX.
+Desenvolvemos hardwares para iot buscando a conectividade e estamos em processo de lançamento de nossas Plataformas de Hardwares: JARM IOT M (ARM CORTEX M0) e JARM ESP32 IOT (ESP32 WROOM). Para o Raspberry Pi desenvolvemos o Hat GongoMESH, para aplicações em Gateway utilizando protocolos como LoRa, Zigbee, Wi-Fi, BLE, GPRS, NB-IOT e SigFOX.
 
 Possuímos Tecnologia desenvolvida no Brasil que pode facilitar o desenvolvimento de produtos mais versáteis e competitivos, também visamos oferecer suporte com nossos produtos a outras Startups no Brasil que querem oferecer soluções em IoT.
 
