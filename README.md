@@ -15,7 +15,9 @@ Poderemos obter recursos com os serviços de entrega de conectividade através d
 
 ## Nosso e-mail
 
-commercialbusiness@sirineotechnologies.com
+<a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a> commercialbusiness@sirineotechnologies.com
 
 ## Nossas Redes Sociais
 
@@ -34,9 +36,6 @@ Autor
 </a>
 <a target="_blank" href="https://www.instagram.com/sirineotechnologies">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://web.facebook.com/Sirineotechnologies/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
