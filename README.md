@@ -16,9 +16,9 @@ Poderemos obter recursos com os serviços de entrega de conectividade através d
 
 ## Nossa história
 
-O ano era 2017 então na edição da Campus Party Brasilia, iniciamos nossos trabalhos como EngeBOT Tecnologia, onde a Tatamaya Black era nosso principal produto, na ocasião juntamente com a PRTE, organizamos uma Hackathon com a idéia de promover a Conectividade no Campo, sim em 2017 já pensávamos nisso., fomos fundados pelo maranhense [Cirineu Carvalho Fernandes](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/) (engereggae). Naquela época também tínhamos um pensamento mais voltado ao movimento maker no Brasil, onde o nosso shield era mais voltado a esse nicho, principalmente baseado na febre que o Arduino UNO trouxe ao mercado mundial.
+O ano era 2017 então na edição da Campus Party Brasilia, iniciamos nossos trabalhos como EngeBOT Tecnologia, onde a Tatamaya Black era nosso principal produto, na ocasião juntamente com a [PRTE](https://prte.com.br/), organizamos uma Hackathon com a idéia de promover a Conectividade no Campo, sim em 2017 já pensávamos nisso., fomos fundados pelo maranhense [Cirineu Carvalho Fernandes](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/) (engereggae). Naquela época também tínhamos um pensamento mais voltado ao movimento maker no Brasil, onde o nosso shield era mais voltado a esse nicho, principalmente baseado na febre que o Arduino UNO trouxe ao mercado mundial.
 
-Os tempos passaram e fomos vendo que podíamos avançar para um linha mais profissional na Internet das Coisas, onde desenvolvemos Sistemas Embarcados para IoT e módulos com aplicações que utilizam tecnologia SigFOX, LoRa, Zigbee, Wi-Fi, BLE, etc., e fomos avançando cada vez mais.
+Os tempos passaram e fomos vendo que podíamos avançar para uma linha mais profissional voltadaa Internet das Coisas, onde desenvolvemos Sistemas Embarcados para IoT e módulos com aplicações que utilizam tecnologia SigFOX, LoRa, Zigbee, Wi-Fi, BLE, etc., e fomos avançando cada vez mais.
 
 
 ## Nosso e-mail
