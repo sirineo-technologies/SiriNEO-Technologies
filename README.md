@@ -64,7 +64,7 @@ Temos um laboratório onde desenvolvemos nossas pesquisas de hardware, venha e f
 <a target="_blank" href="https://www.instagram.com/babaculab.sirineo/reels/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<br>
 
 ## Autor
 
