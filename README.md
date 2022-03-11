@@ -50,8 +50,7 @@ Poderemos obter recursos com os serviços de entrega de conectividade através d
 </a>
 
 
-
-##Autor  
+## Autor  
 
 Cirineu - engereggae Linkedin
 
