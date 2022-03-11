@@ -19,12 +19,9 @@ commercialbusiness@sirineotechnologies.com
 
 ## Nossas Redes Sociais
 
-by   
+Autor  
 
 [Cirineu - engereggae Linkedin](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/)
-
-Redes Sociais:
-
 
 
 <a target="_blank" href="https://t.me/+JRUYf0m6IjE0ZGMx">
