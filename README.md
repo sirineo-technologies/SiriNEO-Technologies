@@ -14,7 +14,7 @@ Possuímos Tecnologia desenvolvida no Brasil que pode facilitar o desenvolviment
 Poderemos obter recursos com os serviços de entrega de conectividade através de nossos produtos.
 <br>
 
-## Nosso história
+## Nossa história
 
 Começamos no passado como EngeBOT Technoologia, fundado pelo maranhense Cirineu Carvalho Fernandes, mais conhecido pelo nome de engereggae 
 
