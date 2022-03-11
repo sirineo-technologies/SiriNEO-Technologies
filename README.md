@@ -56,8 +56,12 @@ Poderemos obter recursos com os serviços de entrega de conectividade através d
 Cirineu - engereggae Linkedin
 
 <a target="_blank" href="https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/">
-  <img align="left" alt="Gmail" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
+<a target="_blank" href="https://twitter.com/engereggae">
+  <img align="left" alt="twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
 <br>
 
 ## In memorian
