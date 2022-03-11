@@ -25,37 +25,33 @@ by
 
 Redes Sociais:
 
+
+
+<a target="_blank" href="https://t.me/+JRUYf0m6IjE0ZGMx">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 <a target="_blank" href="https://www.linkedin.com/company/sirineo-technologies">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+<a target="_blank" href="https://www.instagram.com/sirineotechnologies">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="https://dev.to/aryclenio/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+<a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://web.facebook.com/Sirineotechnologies/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a target="_blank" href="https://twitter.com/sirineotech">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a target="_blank" href="https://www.youtube.com/channel/UCXL7DX-jfyiIgiR7kq9hfNw">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a target="_blank" href="https://www.tiktok.com/@sirineotechnologies">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
+</a>
 
-[SiriNEO Technologies - Grupo Telegram](https://t.me/+JRUYf0m6IjE0ZGMx)
 
 [SiriNEO Technologies - site](http://sirineotechnologies.com)
 
-[SiriNEO Technologies - Linkedin](https://www.linkedin.com/company/sirineo-technologies)
-
-[SiriNEO Technologies - Instagram](https://www.instagram.com/sirineotechnologies)
-
-[SiriNEO Technologies - Tiktok](https://www.tiktok.com/@sirineotechnologies)  
- 
-[SiriNEO Technologies - Twitter](https://twitter.com/sirineotech)
-
-[SiriNEO Technologies - YouTube](https://www.youtube.com/channel/UCXL7DX-jfyiIgiR7kq9hfNw)
-
-[SiriNEO Technologies - Facebook](https://web.facebook.com/Sirineotechnologies/)
