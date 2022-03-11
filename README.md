@@ -49,7 +49,7 @@ Poderemos obter recursos com os serviços de entrega de conectividade através d
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
 </a>
 
-<br><br>
+<br>
  
 ## Autor
 
