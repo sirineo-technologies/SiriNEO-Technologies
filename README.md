@@ -16,7 +16,7 @@ Poderemos obter recursos com os serviços de entrega de conectividade através d
 
 ## Nossa história
 
-Começamos no passado como EngeBOT Technoologia, fundado pelo maranhense Cirineu Carvalho Fernandes, mais conhecido pelo nome de engereggae 
+O ano era 2017 então na edição da Campus Party Brasilia, iniciamos nossos trabalhos como EngeBOT Tecnologia, onde a Tatamaya Black era nosso principal produto, na ocasião juntamente com a PRTE, organizamos uma Hackathon com a idéia de promover a Conectividade no Campo, sim em 2017 já pensávamos nisso., fomos fundadoa pelo maranhense [Cirineu Carvalho Fernandes](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/) (engereggae). 
 
 
 ## Nosso e-mail
