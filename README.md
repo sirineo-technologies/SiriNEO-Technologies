@@ -23,7 +23,9 @@ Autor
 
 [Cirineu - engereggae Linkedin](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/)
 
-
+<a target="_blank" href="http://sirineotechnologies.com/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://visualpharm.com/assets/378/Website-595b40b65ba036ed117d1098.svg" />
+</a>
 <a target="_blank" href="https://t.me/+JRUYf0m6IjE0ZGMx">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -49,6 +51,4 @@ Autor
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
 </a>
 
-
-[SiriNEO Technologies - site](http://sirineotechnologies.com)
 
