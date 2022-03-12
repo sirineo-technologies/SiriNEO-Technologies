@@ -4,7 +4,9 @@
 <img width="702" height="132" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/LOGO-Simples-Colorida-Com-Contorno.png">
 </p align="center">
 <p align="center"><b><H3 align="center">UMA JANELA PARA O FUTURO</H3></b></p align="center">
-  
+
+:boom:Github em CONSTRUÇÃO:boom: 
+
 ## Sobre a SiriNEO Technologies
 
 A SiriNEO Technologies é uma Startup de Tecnologia ligada a conectividade e serviços em Internet da  Coisas. Fundada no Brasil, buscamos a integração de dispositivos IoT nos mais variáveis ecossistemas de telecomunicações, aliados também a uma importante análise de dados para busca de soluções com inovação e tecnologia.
@@ -35,8 +37,8 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 
 * MÓDULOS SEM FIO
 
-| 1 | 2 | 3 |  
-| :---: | :---: | :---: |
+| 1 | 2 | 3 | 4 |  5  |  6  |  7  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
 ## Nosso e-mail
