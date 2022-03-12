@@ -30,7 +30,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 
 * PLATAFORMA DE HARDWARE
 
-|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/JARM-ESP32-ISO.jpg" width=115 > <br> <sub> JARMESP32IoT </sub>](https://github.com/sirineo-technologies/Tatamaya-Black) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/jarmd.png" width=115 > <br> <sub> JARMIoTM </sub>](https://github.com/sirineo-technologies/Tatamaya-Black) | 3 |  
+|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/JARM-ESP32-ISO.jpg" width=115 > <br> <sub> JARMESP32IoT </sub>](https://github.com/sirineo-technologies/Tatamaya-Black) | [<img src="" width=115 > <br> <sub> JARMIoTM </sub>](https://github.com/sirineo-technologies/Tatamaya-Black) | 3 |  
 | :---: | :---: | :---: | 
 
 * MÓDULOS SEM FIO
