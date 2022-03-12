@@ -35,7 +35,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 
 * MÓDULOS SEM FIO
 
-| 1 | 2 | 3 | 4 |  5  |  6  |  7  |
+|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/WROOMBEE.jpg" width=115 > <br> <sub> WROOMBEE </sub>](https://github.com/sirineo-technologies/Tatamaya-Black) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/lorabot-rak811.jpg" width=115 > <br> <sub> LoRaBOT RAK </sub>](https://github.com/sirineo-technologies/Tatamaya-Black) | 3 | 4 |  5  |  6  |  7  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
