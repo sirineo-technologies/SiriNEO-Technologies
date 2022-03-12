@@ -24,7 +24,8 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 ## Nossos Hardwares
 
 
-| :---         |     :---:      |          ---: |
+|   Esquerda   |  Centralizado  |    Direita    |
+|     :---:    |     :---:      |     :---:     |
 
 
 
