@@ -5,7 +5,7 @@
 </p align="center">
 <p align="center"><b><H3 align="center">UMA JANELA PARA O FUTURO</H3></b></p align="center">
 
-:boom:Github em CONSTRUÇÃO:boom: 
+:mechanic::writing_hand::boom:Github em CONSTRUÇÃO:boom::writing_hand::mechanic: 
 
 ## Sobre a SiriNEO Technologies
 
