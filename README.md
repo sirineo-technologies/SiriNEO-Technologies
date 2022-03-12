@@ -3,7 +3,7 @@
 <p align="center">
 <img width="702" height="132" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/LOGO-Simples-Colorida-Com-Contorno.png">
 </p align="center">
-<p align="center"><b><H3>UMA JANELA PARA O FUTURO</H3></b></p align="center">
+<p align="center"><b><H3 align="center">UMA JANELA PARA O FUTURO</H3></b></p align="center">
   
 ## Sobre a SiriNEO Technologies
 
