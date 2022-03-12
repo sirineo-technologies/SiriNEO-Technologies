@@ -21,6 +21,10 @@ O ano era 2017 então na edição da Campus Party Brasilia, iniciamos nossos tra
 
 Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observando que podíamos avançar para uma linha mais profissional voltadaa Internet das Coisas, onde desenvolvemos Sistemas Embarcados para IoT e módulos com aplicações que utilizam tecnologia SigFOX, LoRa, Zigbee, Wi-Fi, BLE, etc., e fomos avançando cada vez mais.
 
+## Nossos Hardwares
+
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) |
+| :---: | 
 
 ## Nosso e-mail
 
