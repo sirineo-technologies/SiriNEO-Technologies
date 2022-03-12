@@ -23,7 +23,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 
 ## Nossos Hardwares
 
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) |
+[<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/tblack2021-iso.png" width=115 > <br> <sub> Tatamaya Black </sub>](https://github.com/Diana-ops) |
 | :---: | 
 
 ## Nosso e-mail
