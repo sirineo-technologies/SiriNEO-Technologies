@@ -12,7 +12,8 @@ Desenvolvemos hardwares para iot buscando a conectividade e estamos em processo 
 
 Possuímos Tecnologia desenvolvida no Brasil que pode facilitar o desenvolvimento de produtos mais versáteis e competitivos, também visamos oferecer suporte com nossos produtos a outras Startups no Brasil que querem oferecer soluções em IoT.
 
-Poderemos obter recursos com os serviços de entrega de conectividade através de nossos produtos.
+De forma especial estamos contribuindo para o desenvolvimento de Soluções com Integradores em IoT, escolas e universidades com desenvolvimento de trabalho e pesquisa com Internet das Coisas.
+
 <br>
 
 ## Nossa história
