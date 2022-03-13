@@ -45,7 +45,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 <table align="center">
   <tbody>
     <tr>
-      <td align="center">Key Features<br>
+      <td align="center">[<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/tblack2021-iso.png" width=115 > <br> <sub> Tatamaya Black </sub>](https://github.com/sirineo-technologies/Tatamaya-Black) <br>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </td>
       <td align="center">Examples<br>
