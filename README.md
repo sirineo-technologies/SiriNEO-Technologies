@@ -91,16 +91,16 @@ Temos um laboratório onde desenvolvemos nossas pesquisas de hardware, venha e f
 ## Autor
 
 Cirineu - engereggae 
-<h4 align="center"> 
-    :construction:  Página Github em construção  :construction:
-</h4>
+
 <a target="_blank" href="https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/">
   <img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 <a target="_blank" href="https://twitter.com/engereggae">
   <img align="left" alt="twitter" width="98px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-
+<h4 align="center"> 
+    :construction:  Página Github em construção  :construction:
+</h4>
 
 <br>
 
