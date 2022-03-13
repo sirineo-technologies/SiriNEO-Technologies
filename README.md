@@ -24,10 +24,10 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 ## Nossos Hardwares
 
 * SHIELDS e HAT
-.center[
+
 |  [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/tblack2021-iso.png" width=115 > <br> <sub> Tatamaya Black </sub>](https://github.com/sirineo-technologies/Tatamaya-Black)   |  [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/beespmfd.png" width=115 > <br> <sub> BEESP MF </sub>](https://github.com/sirineo-technologies/BEESP-MF)  |   [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/07-menor2-scaled.jpg" width=115> <br> <sub> GongoMESH </sub>](https://github.com/sirineo-technologies/GongoMESH)    |
 |     :---:    |     :---:      |     :---:     | 
-| Shield Arduino   | Shield Arduino/módulos  |  HAT Raspberrypi   | ]
+| Shield Arduino   | Shield Arduino/módulos  |  HAT Raspberrypi   | 
 
 
 * PLATAFORMA DE HARDWARE
