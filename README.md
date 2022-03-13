@@ -31,7 +31,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 
 * HARDWARES ACESSÓRIOS
 
-|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/TiBEE.jpeg" width=115 > <br> <sub> TiBEE </sub>](https://github.com/sirineo-technologies/Tatamaya-Black)   | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/sunbot.png" width=150> <br> <sub> SunBOT </sub>](https://github.com/sirineo-technologies/SunBOT)   |   
+|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/TiBEE.jpeg" width=115 > <br> <sub> TiBEE </sub>](https://github.com/sirineo-technologies/TiBEE)   | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/sunbot.png" width=150> <br> <sub> SunBOT </sub>](https://github.com/sirineo-technologies/SunBOT)   |   
 |     :---:    |     :---:      |     
 | FT232RL   | Módulo de Carregamento  |  
 
