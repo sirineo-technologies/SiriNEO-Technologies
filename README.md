@@ -42,7 +42,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Wi-FI/BLE   | LoRaWAN  |  LoRa   |  SigFOX   |  ZigBEE/BLE   |  SigFOX   |
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center">Key Features<br>
@@ -78,6 +78,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
     </tr>
   </tbody>
 </table>
+
 ## Nosso e-mail
 
 <a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
