@@ -21,7 +21,7 @@ O ano era 2017 então na edição da Campus Party Brasilia, iniciamos nossos tra
 
 Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observando que podíamos avançar para uma linha mais profissional voltadaa Internet das Coisas, onde desenvolvemos Sistemas Embarcados para IoT e módulos com aplicações que utilizam tecnologia SigFOX, LoRa, Zigbee, Wi-Fi, BLE, etc., e fomos avançando cada vez mais.
 
-## Nossos Hardwares
+## Nossos Portfólio de Hardwares atual
 
 * SHIELDS e HAT
 
