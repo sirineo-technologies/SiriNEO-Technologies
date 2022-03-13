@@ -31,11 +31,13 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 
 
 * PLATAFORMA DE HARDWARE
+.center[
 
 |  [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/JARM-ESP32-ISO.jpg" width=115 > <br> <sub> JARMESP32IoT </sub>](https://github.com/sirineo-technologies/JARMESP32IoT) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/jarmd.png" width=115 > <br> <sub> JARMIoTM </sub>](https://github.com/sirineo-technologies/JARMIoTM) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/sunbot.png" width=150> <br> <sub> SunBOT </sub>](https://github.com/sirineo-technologies/SunBOT) |  
 | :---: | :---: | :---: | 
 | ESP32WROOM   | ARM CORTEX M0  |  Módulo Carregamento   |
 
+]
 * MÓDULOS SEM FIO
 
 |  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/WROOMBEE.jpg" width=115 > <br> <sub> WROOMBEE </sub>](https://github.com/sirineo-technologies/WROOMBEE) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/lorabot-rak811.jpg" width=115 > <br> <sub> LoRaBOT RAK </sub>](https://github.com/sirineo-technologies/LoraBOT-RAK) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/lorabor-rf95.png" width=115 > <br> <sub> LoRaBOT RF95 </sub>](https://github.com/sirineo-technologies/LoraBOT-SPI-) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/sigbot.png" width=115 > <br> <sub> SigBOT Wisol </sub>](https://github.com/sirineo-technologies/Tatamaya-Black) |  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/zigbot1.jpg" width=115 > <br> <sub> ZigBOT </sub>](https://github.com/sirineo-technologies/SigBOT)  |  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/SigBOT-HTmicron.jpeg" width=115 > <br> <sub> SigBOT HT </sub>](https://github.com/sirineo-technologies/SigBOT-HTmicron) |  
