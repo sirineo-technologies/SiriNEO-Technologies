@@ -21,7 +21,7 @@ O ano era 2017 então na edição da Campus Party Brasilia, iniciamos nossos tra
 
 Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observando que podíamos avançar para uma linha mais profissional voltadaa Internet das Coisas, onde desenvolvemos Sistemas Embarcados para IoT e módulos com aplicações que utilizam tecnologia SigFOX, LoRa, Zigbee, Wi-Fi, BLE, etc., e fomos avançando cada vez mais.
 
-## Nossos Portfólio de Hardwares atual
+## Nosso portfólio de Hardwares atual
 
 * SHIELDS e HAT
 
@@ -108,5 +108,5 @@ Cirineu - engereggae
 
 ## In memorian
 
-Essa comunidade é inteiramente dedicada ao meu filho <b>VICENTE DE CARVALHO VIEIRA FERNANDES</b><br>
+Essa comunidade é inteiramente dedicada ao meu filho <b>VICENTE FERNANDES</b><br> que nos deixou dia 08/03/2022.
                                                           Obrigado meu filho
