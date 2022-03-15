@@ -45,7 +45,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 
 * OUTROS HARDWARES E ACESSÓRIOS
 
-|  [<img src="https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/blob/main/figuras3Dcases/case%20basico%20jarm.png" width=115 > <br> <sub> TiBEE </sub>](https://github.com/sirineo-technologies/TiBEE)   | [<img src="https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/blob/main/figuras3Dcases/Case%20gongomesh1.png" width=150> <br> <sub> SunBOT </sub>](https://github.com/sirineo-technologies/SunBOT)   |   
+|  [<img src="https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/blob/main/figuras3Dcases/case%20basico%20jarm.png" width=115 > <br> <sub> JARMs </sub>](https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/tree/main/JARMs%20-%203Dcase)   | [<img src="https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/blob/main/figuras3Dcases/Case%20gongomesh1.png" width=150> <br> <sub> GongoMESH </sub>](https://github.com/sirineo-technologies/SunBOT)   |   
 |     :---:    |     :---:      |     
 | Case JARMs   | Case GongoMESH  | 
 
