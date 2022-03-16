@@ -59,7 +59,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 
 ## Programas que já reconheram e certificaram nosso trabalho
 
-|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/inovativa_novo-logo.png" width=170 > <br> <sub>  </sub>](https://www.inovativa.online/)   | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/nexus-2.png" width=150> <br> <sub>  </sub>](https://pqtec.org.br/nexus/)   |   
+|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/inovativa_novo-logo.png" width=200 > <br> <sub>  </sub>](https://www.inovativa.online/)   | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/nexus-2.png" width=150> <br> <sub>  </sub>](https://pqtec.org.br/nexus/)   |   
 |     :---:    |     :---:      |     
 | Inovativa Brasil   | Nexus | 
 
