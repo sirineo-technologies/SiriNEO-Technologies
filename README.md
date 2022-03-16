@@ -126,3 +126,7 @@ Cirineu - engereggae
 
 Essa comunidade é inteiramente dedicada ao meu filho <b>VICENTE FERNANDES</b><br> que nos deixou dia 08/03/2022.
                                                           Obrigado meu filho
+                                                          
+<p align="center">
+<img width="1258" height="138" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/logorodape.png">
+</p align="center">
