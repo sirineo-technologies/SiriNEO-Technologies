@@ -57,6 +57,12 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 |     :---:    |     :---:      |     
 | Case JARMs   | Case GongoMESH  | 
 
+## Programas que já reconheram nosso trabalhos
+
+|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/inovativa_novo-logo.png" width=170 > <br> <sub> JARMs </sub>](https://www.inovativa.online/)   | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/nexus-2.png" width=150> <br> <sub> GongoMESH </sub>](https://pqtec.org.br/nexus/)   |   
+|     :---:    |     :---:      |     
+| Inovativa Brasil   | Nexus | 
+
 ## Nosso e-mail
 
 <a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
