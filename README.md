@@ -123,7 +123,7 @@ Cirineu - engereggae
 <br>
 
 
-<b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b
+<b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b>
 
  
 :construction:  Página Github em construção  :construction:
