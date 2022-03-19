@@ -119,6 +119,14 @@ Cirineu - engereggae
 <a target="_blank" href="https://twitter.com/engereggae">
   <img align="left" alt="twitter" width="98px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+
+<p align="center">
+<img width="600" height="335" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp">
+</p align="center">
+
+<p align="center">
+<b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b
+</p>
  
 :construction:  Página Github em construção  :construction:
 
