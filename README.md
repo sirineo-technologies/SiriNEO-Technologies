@@ -121,9 +121,10 @@ Cirineu - engereggae
 </a>
 
 <br>
-<p align="center">
+
+<center>
 <img width="600" height="335" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp">
-</p align="center">
+</center>
 
 <p align="center">
 <b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b
