@@ -112,6 +112,7 @@ Temos um laboratório onde desenvolvemos nossas pesquisas de hardware, venha e f
 ## Autor
 
 Cirineu - engereggae 
+<b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b>
 
 <a target="_blank" href="https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/">
   <img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -122,10 +123,6 @@ Cirineu - engereggae
 
 <br>
 
-
-<b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b>
-
- 
 :construction:  Página Github em construção  :construction:
 
 ## In memorian
