@@ -115,6 +115,10 @@ Cirineu - engereggae
 
 <b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b>
 
+<p align="center">
+<img width="600" height="335" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp">
+</p align="center">
+
 <a target="_blank" href="https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/">
   <img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
