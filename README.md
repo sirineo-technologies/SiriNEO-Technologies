@@ -50,7 +50,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 |     :---:    |     :---:      |     
 | FT232RL   | Módulo de Carregamento  | 
 
-## Projetos de Impressão 3D
+## Projetos de Impressão 3D e outros cases
 
 * ALGUNS PROJETOS PARA IMPRESSORA 3D PARA NOSSOS HARDWARES
 
