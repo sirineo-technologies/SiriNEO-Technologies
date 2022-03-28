@@ -111,7 +111,7 @@ Temos um laboratório onde desenvolvemos nossas pesquisas de hardware, venha e f
 
 ## Autor
 
-Cirineu - engereggae 
+Cirineu - engereggae - estou escrevendo esse repositorio sozinho dia a dia.
 
 <b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b>
 
