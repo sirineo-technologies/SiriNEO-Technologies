@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sirineo-technologies&color=green)
 
-<p align="center">
-<img width="702" height="132" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/LOGO-Simples-Colorida-Com-Contorno.png">
+<p align="center"> 
+<img width="897" height="406" src="http://sirineotechnologies.com/wp-content/uploads/2023/02/sirineo-sem-fundo-1.2.png">
 </p align="center">
 <p align="center"><b><H3 align="center">UMA JANELA PARA O FUTURO</H3></b></p align="center">
 
