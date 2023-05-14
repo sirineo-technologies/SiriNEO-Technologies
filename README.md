@@ -54,8 +54,7 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 
 * APARTIR DE MAIO 2023 ESTAMOS REABRINDO NOSSOS TRABALHOS AGORA COM NOSSA PLATAFORMA WEB SiriNEO THINGS E INTEGRAÇÃO A THINGSBOARD 
 
-|  [<img src="https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/blob/main/figuras3Dcases/case%20basico%20jarm.png" width=170 > <br> <sub> JARMs </sub>](https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/tree/main/JARMs%20-%203Dcase)   | [<img src="https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/blob/main/figuras3Dcases/Case%20gongomesh1.png" width=150> <br> <sub> GongoMESH </sub>](https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/tree/main/GongoMESH%20-%203Dcase)   | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/casebox-jarm2.3.png" width=150> <br> <sub> CaseBOX JARM </sub>](https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/tree/main/GongoMESH%20-%203Dcase)  |
-|     :---:    |     :---:      |     :---:      |    
+ 
 | SiriNEO Things   | SiriNEO Things Zigbee  | SiriNEO ThingsBOARD  |  
 
 ## Projetos de Impressão 3D e outros cases
