@@ -24,7 +24,7 @@ Imagine você poder todos esses hardwares em um só equipamento ! Nós batizamos
 1 - TBLACKSBOT - um chassi robótico
 
 2 - TBLACKS1BOT - O chassi superior que vem com recursos para se trabalhar com nosso Shield [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black), [Wroombee](https://github.com/sirineo-technologies/WROOMBEE), [ESP32 CAM](https://github.com/espressif/esp32-camera) e [Raspeberry pi zero](https://www.raspberrypi.com/products/raspberry-pi-zero/). Esse chassi superior pode comunicar com chassi inferior da TBLACKSBOT e também de forma independente para estudos de IoT e Inteligência Artificial, com reursos ainda
-para se ligar com displays epaper do mercado nos modelos: [200x200, 1.54inch E-Ink display module] (https://www.waveshare.com/1.54inch-e-paper-module.htm?amazon), [2.9inch E-Paper E-Ink Display Module (B)](https://www.waveshare.com/pico-epaper-2.9-b.htm) e [2.66inch E-Paper E-Ink Display Module (B)](https://www.waveshare.com/2.66inch-e-paper-module-B.htm). 
+para se ligar com displays epaper do mercado nos modelos: [1.54inch E-Ink display module] (https://www.waveshare.com/1.54inch-e-paper-module.htm?amazon), [2.9inch E-Paper E-Ink Display Module (B)](https://www.waveshare.com/pico-epaper-2.9-b.html) e [2.66inch E-Paper E-Ink Display Module (B)](https://www.waveshare.com/2.66inch-e-paper-module-B.html). 
 
 
 <br>
