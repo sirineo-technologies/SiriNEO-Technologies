@@ -22,7 +22,7 @@ Para esse projeto nós decidimos desenvolver um equipamento específico, que ser
 Imagine você poder todos esses hardwares em um só equipamento ! Nós batizamos ele de TBLACKSBOT, sim ele possui duas partes:
 
 1 - TBLACKSBOT - um chassi robótico com sensores reflexivos infravermelho principalmente aplicado no desenvolvimento de projetos de “ robôs seguidores de linha ”, 
-além de outros conectores e sensores para diversos testes e aplicações. O chassi também é compatível com o [raspberry pi pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) 
+além de outros conectores e sensores para diversos testes e aplicações. O chassi também é compatível com o [Raspberry pi pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) 
 e o  [Raspeberry pi zero](https://www.raspberrypi.com/products/raspberry-pi-zero/), possibilitando o controle do robô por vários tipo de hardwares do mercado.
 
 2 - TBLACKS1BOT - O chassi superior que vem com recursos para se trabalhar com nosso Shield [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black), [Wroombee](https://github.com/sirineo-technologies/WROOMBEE), [ESP32 CAM](https://github.com/espressif/esp32-camera) e [Raspeberry pi zero](https://www.raspberrypi.com/products/raspberry-pi-zero/). Esse chassi superior pode comunicar com chassi inferior da TBLACKSBOT e também de forma independente para estudos de IoT e Inteligência Artificial, com reucrsos ainda
