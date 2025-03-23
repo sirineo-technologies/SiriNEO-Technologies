@@ -5,7 +5,7 @@
 </p align="center">
 <p align="center"><b><H3 align="center">UMA JANELA PARA O FUTURO</H3></b></p align="center">
 
-## Sobre a SiriNEO Technologies
+## Sobre a SiriNEO Technologies - ANO 2025 !
 
 A SiriNEO Technologies é uma Startup de Tecnologia ligada a conectividade e serviços em Internet da  Coisas. Fundada no Brasil, buscamos a integração de dispositivos IoT nos mais variáveis ecossistemas de telecomunicações, aliados também a uma importante análise de dados para busca de soluções com inovação e tecnologia.
 
@@ -14,6 +14,8 @@ Desenvolvemos hardwares para aplicação em iot e estamos em processo de lançam
 Possuímos Tecnologia desenvolvida no Brasil que pode facilitar o desenvolvimento de produtos mais versáteis e competitivos, também visamos oferecer suporte com nossos produtos a outras Startups no Brasil que querem oferecer soluções em IoT.
 
 De forma especial estamos contribuindo para o desenvolvimento de Soluções com Integradores em IoT, escolas e universidades com desenvolvimento de trabalho e pesquisa com Internet das Coisas.
+
+Agora em 2025 estamos com o projeto social Mentes Brilhantes.
 
 <br>
 
