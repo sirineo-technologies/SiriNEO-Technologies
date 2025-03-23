@@ -15,7 +15,7 @@ Possuímos Tecnologia desenvolvida no Brasil que pode facilitar o desenvolviment
 
 De forma especial estamos contribuindo para o desenvolvimento de Soluções com Integradores em IoT, escolas e universidades com desenvolvimento de trabalho e pesquisa com Internet das Coisas.
 
-Agora em 2025 estamos com o projeto social Mentes Brilhantes.
+Agora em 2025 estamos com o projeto social Mentes Brilhantes, esse projeto que trata da potencialização no ensino de programação, robótica, IoT e Inteligência Artificial para crianças e adolescentes com TEA, TDAH e AHSD.
 
 <br>
 
