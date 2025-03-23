@@ -17,7 +17,15 @@ De forma especial estamos contribuindo para o desenvolvimento de Soluções com 
 
 Agora em 2025 estamos com o projeto social  [Mentes Brilhantes](https://www.linkedin.com/pulse/potencializa%25C3%25A7%25C3%25A3o-ensino-de-programa%25C3%25A7%25C3%25A3o-rob%25C3%25B3tica-iot-e-cirineu-wmdjf/), esse projeto que trata da potencialização no ensino de programação, robótica, IoT e Inteligência Artificial para crianças e adolescentes com TEA, TDAH e AHSD.
 
-Para esse projeto nós decidimos desenvolver um equipamento específico para esse, que seria muito mais que um kit de robótica, 
+Para esse projeto nós decidimos desenvolver um equipamento específico, que seria muito mais que um kit de robótica, mas um laboratório amplo portátil para os estudos de: eletrônica básica, programação, IoT, Robótica e Inteligência Artificial, pronto para explorar toda a tecnologia atual que você precisa para seu aprendizado. Você ainda poderia utilizar todo legado de hardwares da SiriNEO Technologies, além do Arduino NANO, ESP32 NANO, Raspberry pi zero e Raspberry Pico.
+
+Imagine você poder todos esses hardwares em um só equipamento ! Nós batizamos ele de TBLACKSBOT, sim ele possui duas partes:
+
+1 - TBLACKSBOT - um chassi robótico
+
+2 - TBLACKS1BOT - O chassi superior que vem com recursos para se trabalhar com nosso Shield [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black), [Wroombee](https://github.com/sirineo-technologies/WROOMBEE), [ESP32 CAM](https://github.com/espressif/esp32-camera) e [Raspeberry pi zero](https://www.raspberrypi.com/products/raspberry-pi-zero/). Esse chassi superior pode comunicar com chassi inferior da TBLACKSBOT e também de forma independente para estudos de IoT e Inteligência Artificial, com reursos ainda
+para se ligar com displays epaper do mercado nos modelos: [200x200, 1.54inch E-Ink display module] (https://www.waveshare.com/1.54inch-e-paper-module.htm?amazon), [2.9inch E-Paper E-Ink Display Module (B)](https://www.waveshare.com/pico-epaper-2.9-b.htm) e [2.66inch E-Paper E-Ink Display Module (B)](https://www.waveshare.com/2.66inch-e-paper-module-B.htm). 
+
 
 <br>
 
