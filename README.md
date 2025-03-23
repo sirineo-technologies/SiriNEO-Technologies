@@ -15,7 +15,9 @@ Possuímos Tecnologia desenvolvida no Brasil que pode facilitar o desenvolviment
 
 De forma especial estamos contribuindo para o desenvolvimento de Soluções com Integradores em IoT, escolas e universidades com desenvolvimento de trabalho e pesquisa com Internet das Coisas.
 
-Agora em 2025 estamos com o projeto social Mentes Brilhantes, esse projeto que trata da potencialização no ensino de programação, robótica, IoT e Inteligência Artificial para crianças e adolescentes com TEA, TDAH e AHSD.
+Agora em 2025 estamos com o projeto social  [Mentes Brilhantes](https://www.linkedin.com/pulse/potencializa%25C3%25A7%25C3%25A3o-ensino-de-programa%25C3%25A7%25C3%25A3o-rob%25C3%25B3tica-iot-e-cirineu-wmdjf/), esse projeto que trata da potencialização no ensino de programação, robótica, IoT e Inteligência Artificial para crianças e adolescentes com TEA, TDAH e AHSD.
+
+Para esse projeto nós decidimos desenvolver um equipamento específico para esse, que seria muito mais que um kit de robótica, 
 
 <br>
 
