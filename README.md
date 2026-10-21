@@ -202,9 +202,32 @@ Temos um laboratório onde desenvolvemos nossas pesquisas de hardware, venha e f
 </a>
 <br>
 
-## Autor
+---
 
-Cirineu - engereggae - estou escrevendo esse repositorio sozinho dia a dia.
+## 👨‍💻 Autor
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/">
+    <img src="https://img.shields.io/badge/LinkedIn-Cirineu%20Carvalho%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/engereggae">
+    <img src="https://img.shields.io/badge/GitHub-engereggae-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+### Cirineu Carvalho Fernandes — *engereggae*
+
+Maranhense, maker de coração e fundador da **SiriNEO Technologies**. Minha jornada com IoT começou em **2017, na Campus Party Brasília**, quando ainda nos chamávamos **EngeBOT Tecnologia** e tínhamos como principal produto o shield **Tatamaya Black**. De lá para cá, cada placa, firmware, linha de código e página deste repositório foi escrita por mim, **sozinho, dia a dia**.
+
+Essa trajetória deu origem à linhagem **Tatamaya → JARM IoT → GongoMESH → TBLACKSBOT**, à plataforma **SiriNEO Things** e aos primeiros testes de **IoT via satélite (NB-IoT NTN)**, sempre com a mesma ideia: mostrar que dá para criar tecnologia de ponta **no Brasil**, do chip a plataforma web iot.
+
+🎓 **Hoje sou mestrando no ITA — Instituto Tecnológico de Aeronáutica**, no Programa de Pós-Graduação em Engenharia Eletrônica e Computação, na área de Dispositivos e Sistemas Eletrônicos. Minha pesquisa conecta o que construo na prática com a pesquisa acadêmica: redes não terrestres (NTN), IoT e comunicação crítica para regiões remotas e para a segurança pública.
+
+💚 Também acredito que tecnologia transforma vidas. Por isso criei o projeto social **Mentes Brilhantes**, que leva programação, robótica, IoT e IA para crianças e adolescentes com TEA, TDAH e AHSD.
+
+> *"Se não existe, a gente desenvolve."*
+
+📫 Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/).
 
 <b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b>
 
