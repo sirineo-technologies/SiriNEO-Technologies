@@ -64,12 +64,44 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 |     :---:    |     :---:      |     
 | FT232RL   | Módulo de Carregamento  | 
 
-## Plataforma Web SiriNEO Things
+## 🌐 Plataforma Web SiriNEO Things
 
-* APARTIR DE MAIO 2023 ESTAMOS REABRINDO NOSSOS TRABALHOS AGORA COM NOSSA PLATAFORMA WEB SiriNEO THINGS E INTEGRAÇÃO A THINGSBOARD 
+<p align="center">
+  <img src="https://www.sirineothings.io/assets/img/platform.png" alt="SiriNEO Things no computador, tablet e celular" width="720">
+</p>
 
- 
-| SiriNEO Things   | SiriNEO Things Zigbee  | SiriNEO ThingsBOARD  |  
+Desde **maio de 2023** retomamos nossos trabalhos com foco na **SiriNEO Things**, a plataforma Web de IoT da SiriNEO Technologies para gestão de dados e gerenciamento de dispositivos conectados.
+
+O hardware com firmware **SiriNEO Technologies** lê os sensores e envia os dados. A **SiriNEO Things** recebe, armazena, exibe e age sobre eles, do chip ao painel.
+
+### ✨ Principais recursos
+
+- **Múltiplos protocolos:** MQTT, CoAP, HTTP e LwM2M
+- **Várias redes:** 4G, 5G, NB-IoT, LoRaWAN, Zigbee, Sigfox, Bluetooth, Wi-Fi e **satélite (NB-IoT NTN)**
+- **Painéis em tempo real** no computador, tablet ou celular, com mapas e gráficos
+- **Gestão de dispositivos e ativos**, com autenticação por token e API
+- **Alarmes e notificações** por e-mail, inclusive para desconexão ou inatividade
+- **Motor de regras IoT** para tratar dados e integrar com sistemas externos
+- **Implantação flexível:** na nuvem (On Cloud) ou no servidor do cliente (On Premise)
+- Compatível com os hardwares SiriNEO e com **dispositivos de outros fabricantes**
+
+### 🛰️ IoT até onde não há sinal
+
+Com a conectividade **NB-IoT NTN via satélite**, a plataforma recebe dados de campo em áreas sem cobertura celular, como zonas rurais, mata, mar e regiões remotas.
+
+### 🤝 Parcerias
+
+| Parceiro | Contribuição |
+|---|---|
+| [Sateliot](https://sateliot.space/) | Conectividade IoT padrão 5G via satélites de órbita baixa |
+| [TCTEC Telecom](https://www.tctectelecom.com/) | Soluções de IoT e comunicação via satélite |
+| [Nordic Semiconductor](https://www.nordicsemi.com/) | Chips sem fio de baixo consumo usados nos nossos hardwares |
+
+### 🔗 Links
+
+- 🌍 Site: [www.sirineothings.io](https://www.sirineothings.io)
+- 🏢 SiriNEO Technologies: [sirineotechnologies.com](https://sirineotechnologies.com)
+- ✉️ Contato: sirineothings@sirineotechnologies.com
 
 ## Projetos de Impressão 3D e outros cases
 
