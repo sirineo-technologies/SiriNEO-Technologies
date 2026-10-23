@@ -52,23 +52,6 @@ São tecnologias desenvolvidas no Brasil para criar produtos mais versáteis e c
 
 ---
 
-## 💡 Projeto social Mentes Brilhantes
-
-O **[Mentes Brilhantes](https://www.linkedin.com/pulse/potencializa%25C3%25A7%25C3%25A3o-ensino-de-programa%25C3%25A7%25C3%25A3o-rob%25C3%25B3tica-iot-e-cirineu-wmdjf/)** potencializa o ensino de programação, robótica, IoT e Inteligência Artificial para crianças e adolescentes com **TEA, TDAH e AHSD**.
-
-Para ele, desenvolvemos mais que um kit de robótica: um **laboratório portátil** para estudar eletrônica básica, programação, IoT, robótica e IA. Ele aproveita todo o legado de hardwares da SiriNEO, além do Arduino Nano, ESP32 Nano, Raspberry Pi Zero e Raspberry Pi Pico, tudo em um só equipamento.
-
-Nós o batizamos de **TBLACKSBOT**, e ele tem duas partes:
-
-1. **TBLACKSBOT:** chassi robótico com sensores reflexivos infravermelhos, voltado principalmente a projetos de **robôs seguidores de linha**, com conectores e sensores extras para outros testes. É compatível com o [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) e o [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/), permitindo controlar o robô com diferentes hardwares do mercado.
-
-2. **TBLACKS1BOT:** chassi superior com recursos para o Shield [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black), o [WROOMBEE](https://github.com/sirineo-technologies/WROOMBEE), a [ESP32-CAM](https://github.com/espressif/esp32-camera) e o [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/). Ele se comunica com o chassi inferior ou funciona de forma independente em estudos de IoT e IA. Também tem suporte a displays e-paper: [1.54"](https://www.waveshare.com/1.54inch-e-paper-module.html), [2.9" (B)](https://www.waveshare.com/pico-epaper-2.9-b.html) e [2.66" (B)](https://www.waveshare.com/2.66inch-e-paper-module-B.html).
-
----
-
-🌍 [sirineothings.io](https://www.sirineothings.io) · 🏢 [sirineotechnologies.com](https://sirineotechnologies.com) · ✉️ sirineothings@sirineotechnologies.com
-
-
 <br>
 
 ## Nossa história
@@ -103,6 +86,43 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 |  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/TiBEE.jpeg" width=115 > <br> <sub> TiBEE </sub>](https://github.com/sirineo-technologies/TiBEE)   | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/sunbot.png" width=150> <br> <sub> SunBOT </sub>](https://github.com/sirineo-technologies/SunBOT)   |   
 |     :---:    |     :---:      |     
 | FT232RL   | Módulo de Carregamento  | 
+
+
+## 💡 Projeto social Mentes Brilhantes
+
+O **[Mentes Brilhantes](https://www.linkedin.com/pulse/potencializa%25C3%25A7%25C3%25A3o-ensino-de-programa%25C3%25A7%25C3%25A3o-rob%25C3%25B3tica-iot-e-cirineu-wmdjf/)** potencializa o ensino de programação, robótica, IoT e Inteligência Artificial para crianças e adolescentes com **TEA, TDAH e AHSD**.
+
+Para ele, desenvolvemos mais que um kit de robótica: um **laboratório portátil** para estudar eletrônica básica, programação, IoT, robótica e IA. Ele aproveita todo o legado de hardwares da SiriNEO, além do Arduino Nano, ESP32 Nano, Raspberry Pi Zero e Raspberry Pi Pico, tudo em um só equipamento.
+
+Nós a batizamos de **[TBLACKSBOT](https://github.com/sirineo-technologies/tblacksbot/)**, e ele tem duas partes:
+
+1. **TBLACKSBOT:** chassi robótico com sensores reflexivos infravermelhos, voltado principalmente a projetos de **robôs seguidores de linha**, com conectores e sensores extras para outros testes. É compatível com o [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) e o [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/), permitindo controlar o robô com diferentes hardwares do mercado.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sirineo-technologies/tblacksbot/main/imagens/tblacksbot4.jpg" alt="TBLACKSBOT" width="450px">
+  <br>
+  <sub>TBLACKSBOT</sub>
+</div>
+
+2. **TBLACKS1BOT:** chassi superior com recursos para o Shield [Tatamaya Black](https://github.com/sirineo-technologies/Tatamaya-Black), o [WROOMBEE](https://github.com/sirineo-technologies/WROOMBEE), a [ESP32-CAM](https://github.com/espressif/esp32-camera) e o [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/). Ele se comunica com o chassi inferior ou funciona de forma independente em estudos de IoT e IA. Também tem suporte a displays e-paper: [1.54"](https://www.waveshare.com/1.54inch-e-paper-module.html), [2.9" (B)](https://www.waveshare.com/pico-epaper-2.9-b.html) e [2.66" (B)](https://www.waveshare.com/2.66inch-e-paper-module-B.html).
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sirineo-technologies/tblacksbot/main/imagens/tblacks1bot-sf.png" alt="TBLACKS1BOT" width="600px">
+  <br>
+  <sub>TBLACKS1BOT</sub>
+</div>
+
+<br> 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sirineo-technologies/tblacksbot/main/imagens/tblacksbot1-s.png" alt="TBLACKS1BOT" width="480px">
+  <br>
+  <sub>TBLACKS1BOT COM E-PAPER</sub>
+</div>
+
+---
+
+
 
 ## 🌐 Plataforma Web SiriNEO Things
 
