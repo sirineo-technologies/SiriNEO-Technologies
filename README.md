@@ -1,11 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=sirineo-technologies&color=green)
 
 <p align="center"> 
-<img width="897" height="406" src="http://sirineotechnologies.com/wp-content/uploads/2023/02/sirineo-sem-fundo-1.2.png">
+<img width="897" height="406" src="https://github.com/sirineo-technologies/tblacksbot/blob/main/imagens/navio2026png.png">
 </p align="center">
+
 <p align="center"><b><H3 align="center">UMA JANELA PARA O FUTURO</H3></b></p align="center">
 
-# Conheça a SiriNEO Technologies — 2026 🚀
+# Conheça a SiriNEO Technologies — 2026 
 
 A **SiriNEO Technologies** é uma startup brasileira de tecnologia focada em conectividade e serviços em **Internet das Coisas (IoT)**. Integramos dispositivos IoT aos mais variados ecossistemas de telecomunicações, da rede celular ao satélite, e transformamos dados de campo em informação para decisões com inovação e tecnologia.
 
