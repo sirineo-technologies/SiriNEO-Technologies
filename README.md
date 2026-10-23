@@ -86,11 +86,11 @@ Os tempos passaram, participamos de vários eventos pelo Brasil, e fomos observa
 | Shield Arduino   | Shield Arduino/módulos  |  HAT Raspberrypi   | 
 
 
-* PLATAFORMA DE HARDWARE
+## PLATAFORMA DE HARDWARE
 
-|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/JARM-ESP32-ISO.jpg" width=115 > <br> <sub> JARMESP32IoT </sub>](https://github.com/sirineo-technologies/JARMESP32IoT) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/jarmd.png" width=115 > <br> <sub> JARMIoTM </sub>](https://github.com/sirineo-technologies/JARMIoTM) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/Geotracker.jpeg" width=150> <br> <sub> SiriNEO Geotracker </sub>](https://github.com/sirineo-technologies/SiriNEO-Geotracker) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/06/geobot-iso.jpeg" width=130> <br> <sub> GeoBOT Tucum </sub>](https://github.com/sirineo-technologies/GeoBOT) |
-| :---: | :---: |  :---: | :---: |
-| ESP32WROOM   | ARM CORTEX M0  |  Rastreamento e monitoramento   | Rastreamento   |
+|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/JARM-ESP32-ISO.jpg" width=115 > <br> <sub> JARMESP32IoT </sub>](https://github.com/sirineo-technologies/JARMESP32IoT) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2021/05/jarmd.png" width=115 > <br> <sub> JARMIoTM </sub>](https://github.com/sirineo-technologies/JARMIoTM) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/Geotracker.jpeg" width=150> <br> <sub> SiriNEO Geotracker </sub>](https://github.com/sirineo-technologies/SiriNEO-Geotracker) | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/06/geobot-iso.jpeg" width=130> <br> <sub> GeoBOT Tucum </sub>](https://github.com/sirineo-technologies/GeoBOT) | [<img src="https://raw.githubusercontent.com/sirineo-technologies/NANO_R4_ST/main/imagens/nanor4st1.png" width=115 > <br> <sub> NANOR4ST </sub>](https://github.com/sirineo-technologies/NANO_R4_ST) |
+| :---: | :---: |  :---: | :---: | :---: |
+| ESP32WROOM   | ARM CORTEX M0  |  Rastreamento e monitoramento   | Rastreamento   |   ARM CORTEX M4  |
 
 * MÓDULOS SEM FIO
 
