@@ -4,7 +4,11 @@
 <img width="897" height="406" src="https://github.com/sirineo-technologies/tblacksbot/blob/main/imagens/navio2026png.png">
 </p align="center">
 
-<p align="center"><b><H3 align="center">UMA JANELA PARA O FUTURO</H3></b></p align="center">
+<p align="center">
+  <b><h3 align="center">CONECTANDO O FUTURO</h3></b>
+  <br>
+  <i>Do chip à Plataforma Web IoT.</i>
+</p>
 
 # Conheça a SiriNEO Technologies — 2026 
 
@@ -172,16 +176,16 @@ Com a conectividade **NB-IoT NTN via satélite**, a plataforma recebe dados de c
 |     :---:    |     :---:      |     :---:      |    
 | Case JARMs   | Case GongoMESH  | CaseBOX  ABS   |    
 
-## Programas que já reconheram e certificaram nosso trabalho
+## Programas que já reconheceram e certificaram nosso trabalho
 
-|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/inovativa_novo-logo.png" width=200 > <br> <sub>  </sub>](https://www.inovativa.online/)   | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/nexus-2.png" width=130> <br> <sub>  </sub>](https://pqtec.org.br/nexus/)   |   
-|     :---:    |     :---:      |     
-| Inovativa Brasil   | Nexus | 
+|  [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/inovativa_novo-logo.png" width=200 > <br> <sub>  </sub>](https://www.inovativa.online/)   | [<img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/nexus-2.png" width=130> <br> <sub>  </sub>](https://pqtec.org.br/nexus/)   | [<img src="http://sirineotechnologies.com/wp-content/uploads/2026/10/logo-centelha2.png" width=200> <br> <sub>  </sub>](https://programacentelha.com.br/go/)   |   
+|     :---:    |     :---:      |     :---:      |     
+| Inovativa Brasil   | Nexus | Centelha GO |
 
 ## Nosso e-mail
 
-<a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a target="_blank" href="mailto:commercialbusiness@sirineotechnologies.com">
+  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />
 </a> commercialbusiness@sirineotechnologies.com
 
 ## Nossas Redes Sociais
