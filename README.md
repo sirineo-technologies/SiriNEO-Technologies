@@ -254,7 +254,7 @@ Essa trajetória deu origem à linhagem **Tatamaya → JARM IoT → GongoMESH �
 
 📫 Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/).
 
-<b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b>
+<b>Temos orgulho de ser uma tecnologia 100% brasileira! Se você gostou do projeto, ajude a gente a espalhar essa ideia: deixe uma ⭐ no repositório!</b>
 
 <p align="center">
 <img width="600" height="335" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp">
