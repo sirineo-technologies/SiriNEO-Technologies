@@ -246,9 +246,29 @@ Maranhense, maker de coração e fundador da **SiriNEO Technologies**. Minha jor
 
 Essa trajetória deu origem à linhagem **Tatamaya → JARM IoT → GongoMESH → TBLACKSBOT**, à plataforma **SiriNEO Things** e aos primeiros testes de **IoT via satélite (NB-IoT NTN)**, sempre com a mesma ideia: mostrar que dá para criar tecnologia de ponta **no Brasil**, do chip a plataforma web iot.
 
-🎓 **Hoje sou mestrando no ITA — Instituto Tecnológico de Aeronáutica**, no Programa de Pós-Graduação em Engenharia Eletrônica e Computação, na área de Dispositivos e Sistemas Eletrônicos. Minha pesquisa conecta o que construo na prática com a pesquisa acadêmica: redes não terrestres (NTN), IoT e comunicação crítica para regiões remotas e para a segurança pública.
+🎓 **Hoje sou Mestrando no ITA — Instituto Tecnológico de Aeronáutica**, no Programa de Pós-Graduação em Engenharia Eletrônica e Computação, na área de **Guerra Eletrônica e Sensoriamento Remoto pelo [PPGAO](https://www.ita.br/posgrad/PPGAO/)**. Minha pesquisa conecta o que construo na prática com a pesquisa acadêmica: redes não terrestres (NTN), IoT e comunicação crítica para regiões remotas e para a segurança pública.
 
-💚 Também acredito que tecnologia transforma vidas. Por isso criei o projeto social **Mentes Brilhantes**, que leva programação, robótica, IoT e IA para crianças e adolescentes com TEA, TDAH e AHSD.
+🤖 Além da pesquisa, atuo como membro da equipe de **Engenharia Eletrônica da equipe de robótica humanoide do [ITANDROIDS](http://www.itandroids.com.br/)**. Nesse ecossistema desafiador, coopero no desenvolvimento e integração dos sistemas embarcados, sensores e atuadores que dão vida e movimento aos robôs, garantindo que o hardware suporte os complexos algoritmos de controle e Inteligência Artificial da equipe.
+
+Essa vivência prática em uma das equipes de robótica mais premiadas do Brasil é o que me move a buscar soluções reais, eficientes e escaláveis — exatamente como o ecossistema da SiriNEO Technologies.
+
+<div align="center">
+  <img src="http://sirineotechnologies.com/wp-content/uploads/2026/10/itandroidsciri.jpg" alt="Equipe ITAndroids" width="400px">
+  <br>
+   <sub>Como membro da Engenharia Eletrônica da Equipe Humanóide do ITANDROIDS 2026</sub>
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://sirineotechnologies.com/wp-content/uploads/2026/10/itaciri2.jpg" alt="ITA - Instituto Tecnológico de Aeronáutica" width="550px">
+  <br>
+  <sub>Equipe de Robótica Humanoides do ITAndroids para Olimpíada Brasileira de Robótica (OBR) 2026</sub>
+</div>
+<br>
+
+Também acredito que tecnologia transforma vidas. Por isso criei o projeto social **Mentes Brilhantes**, que leva programação, robótica, IoT e IA para crianças e adolescentes com TEA, TDAH e AHSD.
 
 > *"Se não existe, a gente desenvolve."*
 
@@ -256,25 +276,30 @@ Essa trajetória deu origem à linhagem **Tatamaya → JARM IoT → GongoMESH �
 
 <b>Temos orgulho de ser uma tecnologia 100% brasileira! Se você gostou do projeto, ajude a gente a espalhar essa ideia: deixe uma ⭐ no repositório!</b>
 
-<p align="center">
-<img width="600" height="335" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp">
-</p align="center">
+<div align="center">
+  <img width="600" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp" alt="Brasil">
+</div>
 
-<a target="_blank" href="https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/">
-  <img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
-<a target="_blank" href="https://twitter.com/engereggae">
-  <img align="left" alt="twitter" width="98px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+<br>
 
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/engereggae">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
 
-:construction:  Página Github em construção  :construction:
+<br>
 
 ## In memorian
 
-Essa comunidade é inteiramente dedicada ao meu filho <b>VICENTE FERNANDES</b><br> que nos deixou dia 08/03/2022.
-                                                          Obrigado meu filho
-                                                          
-<p align="center">
-<img width="1258" height="138" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/logorodape.png">
-</p align="center">
+Essa comunidade é inteiramente dedicada ao meu filho <b>VICENTE FERNANDES</b>, que nos deixou no dia 08/03/2022.
+<br>
+Obrigado, meu filho.
+
+<div align="center">
+  <img width="100%" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/logorodape.png" alt="Rodapé">
+</div>
